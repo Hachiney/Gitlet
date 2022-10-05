@@ -1,1 +1,2 @@
-# Gitlet
+# Gitlet: A Version Control Syatem
+
