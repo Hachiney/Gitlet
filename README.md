@@ -3,6 +3,7 @@
 Gitlet is Version Control System which mimics some of the basic features of Git from a concept to an amazing product of backup system.
 In this project I applied file serialization techniques to java objects so that to work with files and directories that persist the state of the Gitlet program across multiple executions.
 
+
 A version-control system is essentially a backup system for related collections of files so that to save versions of any project or file periodically. In that case if at some later point in time someone accidentally messes up heir code, then they can restore the source to a previously committed version. 
 
 In this project the main functionality that Gitlet supports is:
